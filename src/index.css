@@ -28,12 +28,3 @@ a {
 li {
   list-style: none;
 }
-
-button {
-  padding: 5px 10px;
-  border: 0px;
-  border-radius: 5px;
-  cursor: pointer;
-  background-color: darkslateblue;
-  color: #ffffff;
-}
